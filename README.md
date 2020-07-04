@@ -1,4 +1,9 @@
-### Hi there 👋
+**딥러닝 🤖**과 **컴퓨터 비전 👀**을 공부하고 있는 대학생입니다.
+좀 더 많은 사람에게 따뜻한 세상을 만들고 싶습니다.
+
+✉️ jhw970622@gmail.com
+🔗 http://velog.io/@haejoo
+
 
 <!--
 **HyeOn-62/HyeOn-62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
