@@ -2,7 +2,7 @@
 좀 더 많은 사람에게 따뜻한 세상을 만들고 싶습니다.
 
 
-✉️ jhw970622@gmail.com  
+✉️ joo.in.ocean@gmail.com  
 🔗 http://velog.io/@haejoo
 
 
