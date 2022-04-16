@@ -1,12 +1,12 @@
 **컴퓨터 공학 👩‍💻**을 공부하고 있는 대학원생입니다.  
 
 
-✉️ joo.in.ocean@gmail.com  
+✉️ nasdaq.jeon@gmail.com  
 🔗 http://velog.io/@haejoo
 
 
 <!--
-**HyeOn-62/HyeOn-62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ocean-joo/ocean-joo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
